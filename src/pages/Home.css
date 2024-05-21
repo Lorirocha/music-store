@@ -1,0 +1,20 @@
+.small-carousel .carousel-item img {
+    max-height: 600px; 
+    object-fit: cover; 
+}
+
+.small-carousel {
+    max-width: 90%; 
+    margin: auto; 
+
+}
+.home-container {
+    min-height: 100vh; /* Makes sure it covers at least the full height of the viewport */
+}
+
+.bg-light-brown {
+    background-image: linear-gradient(to left, #463431, #e0d3cae5);
+}
+
+
+
